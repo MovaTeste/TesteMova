@@ -1,0 +1,39 @@
+1. Validar se 10 resultados referentes a Bitcoin aparecem no DuckDuckGo - Apertando enter
+
+Dado que um usuário navega para o DuckDuckGo
+E esse usuário quer ler 10 noticias referentes a Bitcoin
+E esse usuário clica na barra de pesquisar do DuckDuckGo
+Quando esse usuário digita a frase 'noticias sobre bitcoin'
+E aperta a tecla Enter
+Então os resultados referentes as noticias sobre Bitcoin devem aparecer
+E o usuário deve se certificar de que 10 noticias referentes a Bitcoin estão na tela
+
+2. Validar se 10 resultados referentes a Bitcoin aparecem no DuckDuckGo - Clicando na Lupa
+
+Dado que um usuário navega para o DuckDuckGo
+E esse usuário quer ler 10 noticias referentes a Bitcoin
+E esse usuário clica na barra de pesquisar do DuckDuckGo
+Quando esse usuário digita a frase 'noticias sobre bitcoin'
+E aperta na lupa para buscar
+Então os resultados referentes as noticias sobre Bitcoin devem aparecer
+E o usuário deve se certificar de que 10 noticias referentes a Bitcoin estão na tela
+
+3. Validar se 10 resultados referentes a Bitcoin aparecem no DuckDuckGo - Utilizando o formulário diretamente (clicando na lupa)
+
+Dado que um usuário navega para o DuckDuckGo
+E esse usuário quer ler 10 noticias referentes a Bitcoin
+E esse usuário clica na barra de pesquisar do DuckDuckGo
+Quando esse usuário digita !news Bitcoin
+E aperta na lupa para buscar
+Então os resultados referentes as noticias sobre Bitcoin devem aparecer
+E o usuário deve se certificar de que 10 noticias referentes a Bitcoin estão na tela
+
+4. Validar se 10 resultados referentes a Bitcoin aparecem no DuckDuckGo - Utilizando o formulário diretamente (apertando enter)
+
+Dado que um usuário navega para o DuckDuckGo
+E esse usuário quer ler 10 noticias referentes a Bitcoin
+E esse usuário clica na barra de pesquisar do DuckDuckGo
+Quando esse usuário digita !news Bitcoin
+E aperta enter para buscar
+Então os resultados referentes as noticias sobre Bitcoin devem aparecer
+E o usuário deve se certificar de que 10 noticias referentes a Bitcoin estão na tela
